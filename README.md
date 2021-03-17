@@ -10,3 +10,5 @@ This Will Help You To Predict Apartment Price As Per Floor Data
 - Pandas
 - Statistics
 - Numpy
+# Algorithm Used 
+- Linear Regression
